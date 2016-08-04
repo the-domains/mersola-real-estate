@@ -1,4 +1,3 @@
-layout_spectrum: 0.8769856574945152
 typography_spectrum: 0.18034333689138293
 color:
   brandStrength: 0.5617820245679468
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.8769856574945152
 name: Mersola Real Estate
+title: ' diM'
 description: Your Go-To Realtor in LA
